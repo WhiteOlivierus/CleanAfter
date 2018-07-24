@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a14af5a36ad2117449d200812d242d85
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SV_m001_tap027_cold
+    100004: SV_m001_tap027_grid
+    100006: SV_m001_tap027_handle
+    100008: SV_m001_tap027_hot
+    100010: SV_m001_tap027_pipe
+    100012: SV_m001_tap027_tap
+    400000: //RootNode
+    400002: SV_m001_tap027_cold
+    400004: SV_m001_tap027_grid
+    400006: SV_m001_tap027_handle
+    400008: SV_m001_tap027_hot
+    400010: SV_m001_tap027_pipe
+    400012: SV_m001_tap027_tap
+    2100000: SV_m001_tap027_cold
+    2100002: SV_m001_tap027_hot
+    2100004: SV_m001_tap027_chrome
+    2100006: SV_m001_tap027_grey
+    2300000: SV_m001_tap027_cold
+    2300002: SV_m001_tap027_grid
+    2300004: SV_m001_tap027_handle
+    2300006: SV_m001_tap027_hot
+    2300008: SV_m001_tap027_pipe
+    2300010: SV_m001_tap027_tap
+    3300000: SV_m001_tap027_cold
+    3300002: SV_m001_tap027_grid
+    3300004: SV_m001_tap027_handle
+    3300006: SV_m001_tap027_hot
+    3300008: SV_m001_tap027_pipe
+    3300010: SV_m001_tap027_tap
+    4300000: SV_m001_tap027_cold
+    4300002: SV_m001_tap027_hot
+    4300004: SV_m001_tap027_tap
+    4300006: SV_m001_tap027_handle
+    4300008: SV_m001_tap027_grid
+    4300010: SV_m001_tap027_pipe
+    6400000: SV_m001_tap027_cold
+    6400002: SV_m001_tap027_grid
+    6400004: SV_m001_tap027_handle
+    6400006: SV_m001_tap027_hot
+    6400008: SV_m001_tap027_pipe
+    6400010: SV_m001_tap027_tap
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SV_m001_tap027_chrome
+    second: {fileID: 2100000, guid: a7d9b7ec70cb5b9488706636e6e00aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SV_m001_tap027_cold
+    second: {fileID: 2100000, guid: 70c0b0cbf804f2942a66ac26b1f8d35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SV_m001_tap027_grey
+    second: {fileID: 2100000, guid: 885e7bd61bb881b45873f9f4edaba303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SV_m001_tap027_hot
+    second: {fileID: 2100000, guid: 5f0ae5d768a78c347b67fcfac73404af, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
