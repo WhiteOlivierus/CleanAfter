@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 39733bf382dcc7741bb97350ddf049d4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kitchen
+    100004: Cube
+    100006: Cube.008
+    100008: Cube.013
+    100010: Cube.016
+    100012: Cube.044
+    100014: Cube.045
+    100016: Cube.046
+    100018: Cube.047
+    100020: Cube.049
+    100022: Cube.050
+    100024: Cube.051
+    100026: Cube.053
+    100028: Cube.054
+    100030: Cube.055
+    100032: Cube.056
+    100034: Cube.057
+    100036: Cube.023
+    100038: Douche
+    100040: Douche.002
+    100042: Cube.003
+    400000: //RootNode
+    400002: Kitchen
+    400004: Cube
+    400006: Cube.008
+    400008: Cube.013
+    400010: Cube.016
+    400012: Cube.044
+    400014: Cube.045
+    400016: Cube.046
+    400018: Cube.047
+    400020: Cube.049
+    400022: Cube.050
+    400024: Cube.051
+    400026: Cube.053
+    400028: Cube.054
+    400030: Cube.055
+    400032: Cube.056
+    400034: Cube.057
+    400036: Cube.023
+    400038: Douche
+    400040: Douche.002
+    400042: Cube.003
+    2100000: No Name
+    2300000: //RootNode
+    2300002: Kitchen
+    2300004: Cube
+    2300006: Cube.008
+    2300008: Cube.013
+    2300010: Cube.016
+    2300012: Cube.044
+    2300014: Cube.045
+    2300016: Cube.046
+    2300018: Cube.047
+    2300020: Cube.049
+    2300022: Cube.050
+    2300024: Cube.051
+    2300026: Cube.053
+    2300028: Cube.054
+    2300030: Cube.055
+    2300032: Cube.056
+    2300034: Cube.057
+    2300036: Cube.023
+    2300038: Douche
+    2300040: Douche.002
+    2300042: Cube.003
+    3300000: //RootNode
+    3300002: Kitchen
+    3300004: Cube
+    3300006: Cube.008
+    3300008: Cube.013
+    3300010: Cube.016
+    3300012: Cube.044
+    3300014: Cube.045
+    3300016: Cube.046
+    3300018: Cube.047
+    3300020: Cube.049
+    3300022: Cube.050
+    3300024: Cube.051
+    3300026: Cube.053
+    3300028: Cube.054
+    3300030: Cube.055
+    3300032: Cube.056
+    3300034: Cube.057
+    3300036: Cube.023
+    3300038: Douche
+    3300040: Douche.002
+    3300042: Cube.003
+    4300000: Kitchen
+    4300002: Cube.046
+    4300004: Cube.057
+    4300006: Cube.045
+    4300008: Cube.054
+    4300010: Cube.051
+    4300012: Cube.050
+    4300014: Cube.016
+    4300016: Cube.013
+    4300018: Cube.008
+    4300020: Cube
+    4300022: Cube.023
+    4300024: Douche.002
+    4300026: Douche
+    4300028: Cube.003
+    6400000: Kitchen
+    6400002: Cube
+    6400004: Cube.008
+    6400006: Cube.013
+    6400008: Cube.016
+    6400010: Cube.044
+    6400012: Cube.045
+    6400014: Cube.046
+    6400016: Cube.047
+    6400018: Cube.049
+    6400020: Cube.050
+    6400022: Cube.051
+    6400024: Cube.053
+    6400026: Cube.054
+    6400028: Cube.055
+    6400030: Cube.056
+    6400032: Cube.057
+    6400034: Cube.023
+    6400036: Douche
+    6400038: Douche.002
+    6400040: Cube.003
+    6400042: //RootNode
+    7400000: Kitchen|AreaAction
+    7400002: Kitchen|AreaAction.001
+    7400004: Kitchen|AreaAction.002
+    7400006: Kitchen|AreaAction.003
+    7400008: Kitchen|AreaAction.004
+    7400010: Kitchen|AreaAction.005
+    7400012: Kitchen|AreaAction.006
+    7400014: Kitchen|CameraAction
+    7400016: Kitchen|CubeAction
+    7400018: Kitchen|CubeAction.001
+    7400020: Kitchen|CubeAction.002
+    7400022: Kitchen|CubeAction.003
+    7400024: Kitchen|CubeAction.004
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen
+    second: {fileID: 2100000, guid: 23aad4cc3e7ee074a95e51a8de7cf0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 4f364f3441f75144ea34ac28e055633c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c51c4a6ecf57c8d4988c41b1a0271e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePlastic
+    second: {fileID: 2100000, guid: 7b6da2ebda16d2d47bf784d11c876df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFine
+    second: {fileID: 2100000, guid: 8361bbd4778696745be37c2195a9b4d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorkBlad
+    second: {fileID: 2100000, guid: 38c1cda34dfcce24eb28bcff0a6b4b57, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 2ad4f41b3ba05154b8b657961d81f622
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cupboard
+    100004: CupboardDoor
+    100006: Closet
+    100008: Cupboard.005
+    400000: //RootNode
+    400002: Cupboard
+    400004: CupboardDoor
+    400006: Closet
+    400008: Cupboard.005
+    2100000: No Name
+    2300000: Cupboard
+    2300002: CupboardDoor
+    2300004: Closet
+    2300006: Cupboard.005
+    2300008: //RootNode
+    3300000: Cupboard
+    3300002: CupboardDoor
+    3300004: Closet
+    3300006: Cupboard.005
+    3300008: //RootNode
+    4300000: CupboardDoor
+    4300002: Cupboard
+    4300004: Closet
+    4300006: Cupboard.005
+    6400000: Cupboard
+    6400002: CupboardDoor
+    6400004: Closet
+    6400006: Cupboard.005
+    6400008: //RootNode
+    7400000: CupboardDoor|AreaAction
+    7400002: CupboardDoor|AreaAction.001
+    7400004: CupboardDoor|AreaAction.002
+    7400006: CupboardDoor|AreaAction.003
+    7400008: CupboardDoor|AreaAction.004
+    7400010: CupboardDoor|AreaAction.005
+    7400012: CupboardDoor|AreaAction.006
+    7400014: CupboardDoor|CameraAction
+    7400016: CupboardDoor|CubeAction
+    7400018: CupboardDoor|CubeAction.001
+    7400020: CupboardDoor|CubeAction.002
+    7400022: CupboardDoor|CubeAction.003
+    7400024: CupboardDoor|CubeAction.004
+    7400026: Cupboard|AreaAction
+    7400028: Cupboard|AreaAction.001
+    7400030: Cupboard|AreaAction.002
+    7400032: Cupboard|AreaAction.003
+    7400034: Cupboard|AreaAction.004
+    7400036: Cupboard|AreaAction.005
+    7400038: Cupboard|AreaAction.006
+    7400040: Cupboard|CameraAction
+    7400042: Cupboard|CubeAction
+    7400044: Cupboard|CubeAction.001
+    7400046: Cupboard|CubeAction.002
+    7400048: Cupboard|CubeAction.003
+    7400050: Cupboard|CubeAction.004
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedEnBad
+    second: {fileID: 2100000, guid: e9dfccd94696fef4ca8f857c138be0af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhitePlastic
+    second: {fileID: 2100000, guid: 7b6da2ebda16d2d47bf784d11c876df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorkBlad
+    second: {fileID: 2100000, guid: 38c1cda34dfcce24eb28bcff0a6b4b57, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

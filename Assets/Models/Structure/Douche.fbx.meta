@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: ba6b437f7eb616a4dbd6e60ea6cc50c4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Douche
+    100004: Douche.002
+    100006: Cupboard.001
+    400000: //RootNode
+    400002: Douche
+    400004: Douche.002
+    400006: Cupboard.001
+    2100000: No Name
+    2300000: //RootNode
+    2300002: Douche
+    2300004: Douche.002
+    2300006: Cupboard.001
+    3300000: //RootNode
+    3300002: Douche
+    3300004: Douche.002
+    3300006: Cupboard.001
+    4300000: Douche
+    4300002: Douche.002
+    4300004: Cupboard.001
+    6400000: Douche
+    6400002: Douche.002
+    6400004: Cupboard.001
+    7400000: Douche|AreaAction
+    7400002: Douche|AreaAction.001
+    7400004: Douche|AreaAction.002
+    7400006: Douche|AreaAction.003
+    7400008: Douche|AreaAction.004
+    7400010: Douche|AreaAction.005
+    7400012: Douche|AreaAction.006
+    7400014: Douche|CameraAction
+    7400016: Douche|CubeAction
+    7400018: Douche|CubeAction.001
+    7400020: Douche|CubeAction.002
+    7400022: Douche|CubeAction.003
+    7400024: Douche|CubeAction.004
+    7400026: Douche.002|AreaAction
+    7400028: Douche.002|AreaAction.001
+    7400030: Douche.002|AreaAction.002
+    7400032: Douche.002|AreaAction.003
+    7400034: Douche.002|AreaAction.004
+    7400036: Douche.002|AreaAction.005
+    7400038: Douche.002|AreaAction.006
+    7400040: Douche.002|CameraAction
+    7400042: Douche.002|CubeAction
+    7400044: Douche.002|CubeAction.001
+    7400046: Douche.002|CubeAction.002
+    7400048: Douche.002|CubeAction.003
+    7400050: Douche.002|CubeAction.004
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BedEnBad
+    second: {fileID: 2100000, guid: e9dfccd94696fef4ca8f857c138be0af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c51c4a6ecf57c8d4988c41b1a0271e37, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

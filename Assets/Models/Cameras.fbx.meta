@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: fd32e97300513824191451b8fa8da922
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera.001
+    100002: Camera.002
+    100004: Camera.003
+    100006: Camera.004
+    100008: Camera.005
+    100010: Camera.006
+    100012: Camera.007
+    100014: Camera.008
+    100016: //RootNode
+    400000: Camera.001
+    400002: Camera.002
+    400004: Camera.003
+    400006: Camera.004
+    400008: Camera.005
+    400010: Camera.006
+    400012: Camera.007
+    400014: Camera.008
+    400016: //RootNode
+    2000000: Camera.001
+    2000002: Camera.002
+    2000004: Camera.003
+    2000006: Camera.004
+    2000008: Camera.005
+    2000010: Camera.006
+    2000012: Camera.007
+    2000014: Camera.008
+    7400000: Camera.008|CameraAction
+    7400002: Camera.008|CameraAction.001
+    7400004: Camera.008|CameraAction.002
+    7400006: Camera.008|CameraAction.003
+    7400008: Camera.008|CameraAction.004
+    7400010: Camera.008|CameraAction.005
+    7400012: Camera.008|CameraAction.006
+    7400014: Camera.008|CameraAction.007
+    7400016: Camera.008|CameraAction.008
+    7400018: Camera.008|CubeAction
+    7400020: Camera.008|CubeAction.002
+    7400022: Camera.007|CameraAction
+    7400024: Camera.007|CameraAction.001
+    7400026: Camera.007|CameraAction.002
+    7400028: Camera.007|CameraAction.003
+    7400030: Camera.007|CameraAction.004
+    7400032: Camera.007|CameraAction.005
+    7400034: Camera.007|CameraAction.006
+    7400036: Camera.007|CameraAction.007
+    7400038: Camera.007|CameraAction.008
+    7400040: Camera.007|CubeAction
+    7400042: Camera.007|CubeAction.002
+    7400044: Camera.006|CameraAction
+    7400046: Camera.006|CameraAction.001
+    7400048: Camera.006|CameraAction.002
+    7400050: Camera.006|CameraAction.003
+    7400052: Camera.006|CameraAction.004
+    7400054: Camera.006|CameraAction.005
+    7400056: Camera.006|CameraAction.006
+    7400058: Camera.006|CameraAction.007
+    7400060: Camera.006|CameraAction.008
+    7400062: Camera.006|CubeAction
+    7400064: Camera.006|CubeAction.002
+    7400066: Camera.005|CameraAction
+    7400068: Camera.005|CameraAction.001
+    7400070: Camera.005|CameraAction.002
+    7400072: Camera.005|CameraAction.003
+    7400074: Camera.005|CameraAction.004
+    7400076: Camera.005|CameraAction.005
+    7400078: Camera.005|CameraAction.006
+    7400080: Camera.005|CameraAction.007
+    7400082: Camera.005|CameraAction.008
+    7400084: Camera.005|CubeAction
+    7400086: Camera.005|CubeAction.002
+    7400088: Camera.004|CameraAction
+    7400090: Camera.004|CameraAction.001
+    7400092: Camera.004|CameraAction.002
+    7400094: Camera.004|CameraAction.003
+    7400096: Camera.004|CameraAction.004
+    7400098: Camera.004|CameraAction.005
+    7400100: Camera.004|CameraAction.006
+    7400102: Camera.004|CameraAction.007
+    7400104: Camera.004|CameraAction.008
+    7400106: Camera.004|CubeAction
+    7400108: Camera.004|CubeAction.002
+    7400110: Camera.003|CameraAction
+    7400112: Camera.003|CameraAction.001
+    7400114: Camera.003|CameraAction.002
+    7400116: Camera.003|CameraAction.003
+    7400118: Camera.003|CameraAction.004
+    7400120: Camera.003|CameraAction.005
+    7400122: Camera.003|CameraAction.006
+    7400124: Camera.003|CameraAction.007
+    7400126: Camera.003|CameraAction.008
+    7400128: Camera.003|CubeAction
+    7400130: Camera.003|CubeAction.002
+    7400132: Camera.002|CameraAction
+    7400134: Camera.002|CameraAction.001
+    7400136: Camera.002|CameraAction.002
+    7400138: Camera.002|CameraAction.003
+    7400140: Camera.002|CameraAction.004
+    7400142: Camera.002|CameraAction.005
+    7400144: Camera.002|CameraAction.006
+    7400146: Camera.002|CameraAction.007
+    7400148: Camera.002|CameraAction.008
+    7400150: Camera.002|CubeAction
+    7400152: Camera.002|CubeAction.002
+    7400154: Camera.001|CameraAction
+    7400156: Camera.001|CameraAction.001
+    7400158: Camera.001|CameraAction.002
+    7400160: Camera.001|CameraAction.003
+    7400162: Camera.001|CameraAction.004
+    7400164: Camera.001|CameraAction.005
+    7400166: Camera.001|CameraAction.006
+    7400168: Camera.001|CameraAction.007
+    7400170: Camera.001|CameraAction.008
+    7400172: Camera.001|CubeAction
+    7400174: Camera.001|CubeAction.002
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
